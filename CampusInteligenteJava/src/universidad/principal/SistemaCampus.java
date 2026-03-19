@@ -1,6 +1,6 @@
-package universidad.usuarios;
-import universidad.usuarios.Estudiante;​
+package universidad.principal;
 import universidad.infraestructura.Laboratorio;
+import universidad.usuarios.Estudiante;
 public class SistemaCampus {
 public static void main(String[] args) {
 	Estudiante estudiante1=new Estudiante("","","",1);
